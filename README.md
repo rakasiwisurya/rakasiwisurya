@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rakasiwi Surya</h1>
 
 <p align="center">
-Software Engineer | Fullstack Developer | React • Next.js • Node.js • .NET Core • Go • AI Enthusiast
+Software Engineer | Fullstack Developer | React • React Native • Next.js • Node.js • .NET Core • Go • AI Enthusiast
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Software+Engineer;React+%2B+Next.js+Developer;Node.js+%2B+.NET+Backend+Engineer;Building+Scalable+Web+Applications;AI+Enthusiast&center=true&width=520&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Software+Engineer;React+%2B+Next.js+Developer;Node.js+%2B+.NET+Backend+Engineer;Building+Scalable+Web+and+Mobile+Applications;AI+Enthusiast&center=true&width=520&height=45">
 </p>
 
 ---
