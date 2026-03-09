@@ -1,34 +1,43 @@
 <h1 align="center">Hi 👋, I'm Rakasiwi Surya</h1>
 
 <p align="center">
-Software Engineer | Fullstack Developer | React JS | Next JS | Node JS | Express JS | React Native | .NET Core | AI Enthusiast | Go Fiber
+Software Engineer | Fullstack Developer | React • Next.js • Node.js • .NET Core • Go • AI Enthusiast
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;React+Engineer;Next.js+Developer;Backend+Engineer;AI+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Software+Engineer;React+%2B+Next.js+Developer;Node.js+%2B+.NET+Backend+Engineer;Building+Scalable+Web+Applications;AI+Enthusiast&center=true&width=520&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-💻 Software Engineer experienced in building enterprise-grade applications.
+💻 Software Engineer experienced in building **enterprise-grade web and mobile applications**.
 
 I have worked on systems such as:
 
 - HRIS systems  
-- Finance systems  
-- Logistics platforms  
-- Transportation systems  
-- Customs & enterprise solutions  
+- Finance platforms  
+- Logistics systems  
+- Transportation applications  
+- Customs & enterprise systems  
 
-⚡ Passionate about building **scalable web applications and modern developer workflows.**
+⚡ Passionate about **scalable architecture, clean code, and modern developer workflows.**
+
+---
+
+## 🔭 Currently Working On
+
+- Building scalable web applications
+- Exploring AI integrations in software systems
+- Improving DevOps workflows using Docker & CI/CD
 
 ---
 
 ## 🌐 Connect With Me
 
 <p>
+
 <a href="https://github.com/rakasiwisurya">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
 </a>
@@ -36,11 +45,16 @@ I have worked on systems such as:
 <a href="https://www.linkedin.com/in/rakasiwisurya">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
+
+<a href="mailto:rakasiwi.surya@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
 </p>
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
@@ -53,7 +67,7 @@ I have worked on systems such as:
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 ![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet)
-![Go Fiber](https://img.shields.io/badge/Go_Fiber-blue?style=for-the-badge&logo=go)
+![Go](https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go)
 
 ### Database
 
@@ -68,11 +82,11 @@ I have worked on systems such as:
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakasiwisurya&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=rakasiwisurya&show_icons=true&theme=tokyonight&count_private=true" />
 
 </p>
 
@@ -84,7 +98,7 @@ I have worked on systems such as:
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -94,7 +108,17 @@ I have worked on systems such as:
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rakasiwisurya&theme=tokyonight&row=1&column=6" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -104,7 +128,7 @@ I have worked on systems such as:
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <p align="center">
 
