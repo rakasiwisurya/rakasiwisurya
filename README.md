@@ -403,11 +403,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ra
 alt="GitHub Statistics"
 />
 
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakasiwisurya&theme=github_dark&utcOffset=7"
-alt="Productive Time"
-/>
-
 </div>
 
 ---
