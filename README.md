@@ -4,18 +4,18 @@
 
 ### `SOFTWARE ENGINEER` · `FULLSTACK DEVELOPER` · `AI/ML ENGINEER` · `TECH LEAD` · `FOUNDER`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=950&lines=Software+Engineer+%26+Fullstack+Developer;AI+%26+Machine+Learning+Engineer;Building+Scalable+Digital+Experiences;Exploring+Data+Science+%26+Intelligent+Systems;Turning+Complex+Problems+Into+Elegant+Solutions;Founder+of+ArcXora" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=6366F1&center=true&vCenter=true&width=950&lines=Software+Engineer+%26+Fullstack+Developer;AI+%26+Machine+Learning+Engineer;Building+Scalable+Digital+Experiences;Exploring+Data+Science+%26+Intelligent+Systems;Turning+Complex+Problems+Into+Elegant+Solutions;Founder+of+ArcXora" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-RAKASIWI%20SURYA-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rakasiwisurya.my.id)
-[![ArcXora](https://img.shields.io/badge/FOUNDER-ARCXORA-7C3AED?style=for-the-badge&logo=rocket&logoColor=white)](https://arcxora.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakasiwisurya)
-[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakasiwisurya)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-RAKASIWI%20SURYA-6366F1?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://rakasiwisurya.my.id)
+[![ArcXora](https://img.shields.io/badge/FOUNDER-ARCXORA-8B5CF6?style=for-the-badge\&logo=rocket\&logoColor=white)](https://arcxora.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-3B82F6?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rakasiwisurya)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rakasiwisurya)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rakasiwisurya&label=PROFILE+VISITORS&color=00f7ff&style=for-the-badge" alt="Profile Visitors" />
+<img src="https://komarev.com/ghpvc/?username=rakasiwisurya&label=PROFILE+VISITORS&color=6366f1&style=for-the-badge" alt="Profile Visitors" />
 
 </div>
 
@@ -85,24 +85,24 @@ I am a **Software Engineer and Fullstack Developer** experienced in designing, b
 
 My engineering experience spans complex systems across:
 
-- 🏢 Enterprise Applications
-- 👥 Human Resource Information Systems
-- 💰 Finance Platforms
-- 🚚 Logistics and Warehouse Systems
-- 🚌 Transportation Technology
-- 🛃 Customs Systems
-- 🏛️ Government Digital Transformation
+* 🏢 Enterprise Applications
+* 👥 Human Resource Information Systems
+* 💰 Finance Platforms
+* 🚚 Logistics and Warehouse Systems
+* 🚌 Transportation Technology
+* 🛃 Customs Systems
+* 🏛️ Government Digital Transformation
 
 Beyond writing code, I have experience **leading frontend development, designing reusable UI architectures, coordinating parallel development with backend teams, translating business requirements into technical solutions, maintaining legacy systems, and shipping scalable production-ready applications**.
 
 I am currently expanding my engineering capabilities into:
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning Engineering
-- ✨ Generative AI and LLM Applications
-- 📊 Data Science and Data Analytics
-- ⚙️ MLOps and AI Infrastructure
-- 🔄 Intelligent Automation
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning Engineering
+* ✨ Generative AI and LLM Applications
+* 📊 Data Science and Data Analytics
+* ⚙️ MLOps and AI Infrastructure
+* 🔄 Intelligent Automation
 
 I am also the **Founder of ArcXora**, where I explore the intersection of **software engineering, artificial intelligence, digital products, automation, and emerging technology**.
 
@@ -140,7 +140,7 @@ I am also the **Founder of ArcXora**, where I explore the intersection of **soft
 
 <p>
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant%20Design-6366F1?style=for-the-badge&logo=antdesign&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
@@ -152,8 +152,8 @@ I am also the **Founder of ArcXora**, where I explore the intersection of **soft
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-00F7FF?style=for-the-badge&logo=fastapi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microservices-7C3AED?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-3B82F6?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-6366F1?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ## `MOBILE DEVELOPMENT`
@@ -198,8 +198,8 @@ I am also the **Founder of ArcXora**, where I explore the intersection of **soft
 
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF00FF?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-6366F1?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-8B5CF6?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
 ---
@@ -219,10 +219,10 @@ I am also the **Founder of ArcXora**, where I explore the intersection of **soft
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/RAG-00F7FF?style=for-the-badge&logo=databricks&logoColor=black" />
-  <img src="https://img.shields.io/badge/LLM%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF00FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-00F7FF?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-3B82F6?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Engineering-6366F1?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-3B82F6?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -244,8 +244,8 @@ I am also the **Founder of ArcXora**, where I explore the intersection of **soft
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDA-00F7FF?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-7C3AED?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDA-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-6366F1?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 ---
@@ -255,7 +255,7 @@ I am also the **Founder of ArcXora**, where I explore the intersection of **soft
 <p>
   <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gensim-00F7FF?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gensim-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
@@ -371,23 +371,42 @@ learning:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rakasiwisurya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=00F7FF" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakasiwisurya&hide_border=true&background=0D1117&stroke=7C3AED&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Streak" />
+<img
+src="https://streak-stats.demolab.com?user=rakasiwisurya&theme=transparent&hide_border=true&background=0D1117&stroke=6366F1&ring=3B82F6&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+alt="Rakasiwi Surya GitHub Streak"
+/>
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakasiwisurya&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" alt="Top Languages" />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakasiwisurya&theme=github_dark"
+alt="Rakasiwi Surya GitHub Profile Summary"
+width="100%"
+/>
 
-</div>
+<br/><br/>
 
----
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakasiwisurya&theme=github_dark"
+alt="Repositories Per Language"
+/>
 
-# 📈 Contribution Matrix
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakasiwisurya&theme=github_dark"
+alt="Most Commit Language"
+/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakasiwisurya&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakasiwisurya&theme=github_dark"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakasiwisurya&theme=github_dark&utcOffset=7"
+alt="Productive Time"
+/>
 
 </div>
 
@@ -416,16 +435,6 @@ learning:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rakasiwisurya&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
-
-</div>
-
----
-
 # 🌌 The ArcXora Universe
 
 <div align="center">
@@ -436,7 +445,7 @@ learning:
 
 <br/>
 
-[![Explore ArcXora](https://img.shields.io/badge/ENTER_THE_ARCXORA_UNIVERSE-00F7FF?style=for-the-badge&logo=rocket&logoColor=black)](https://arcxora.com)
+[![Explore ArcXora](https://img.shields.io/badge/ENTER_THE_ARCXORA_UNIVERSE-6366F1?style=for-the-badge\&logo=rocket\&logoColor=white)](https://arcxora.com)
 
 </div>
 
@@ -470,11 +479,11 @@ I am interested in:
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rakasiwisurya.my.id-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://rakasiwisurya.my.id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rakasiwisurya.my.id-6366F1?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://rakasiwisurya.my.id)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakasiwi%20Surya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakasiwisurya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakasiwi%20Surya-3B82F6?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rakasiwisurya)
 
-[![GitHub](https://img.shields.io/badge/GitHub-rakasiwisurya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakasiwisurya)
+[![GitHub](https://img.shields.io/badge/GitHub-rakasiwisurya-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rakasiwisurya)
 
 <br/>
 
@@ -493,6 +502,6 @@ I am interested in:
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rakasiwisurya&label=SYSTEM+VISITORS&color=00f7ff&style=flat-square" alt="Profile Visitors" />
+<img src="https://komarev.com/ghpvc/?username=rakasiwisurya&label=SYSTEM+VISITORS&color=6366f1&style=flat-square" alt="Profile Visitors" />
 
 </div>
